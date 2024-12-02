@@ -1,5 +1,5 @@
 Hi 
-, I'm PlayReady
+, I'm Widevinely
 
 
 This is me Sofiya, I am posting this to show how we can use SL2000 Certificate to do amazon using Playready drm.
@@ -11,7 +11,7 @@ WE have all Certificates SL2000 & SL 30000
 We have all codes to disney and all sites
 This is posted to punish the people who are making playready easy available
 
-If you wanna collabrate & need support mail us on Playreadydrm@proton.me
+If you wanna collabrate & need support mail us on Widevinely@proton.me
 
 Update : API USED IN THIS IS DOWN DUE TO DDOS
 Command used 
