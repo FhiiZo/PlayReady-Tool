@@ -1,0 +1,34 @@
+decrypter: 'packager'
+tag: 'JEFF'
+tag_sd: 'JEFF'
+
+aria2c:
+  file_allocation: 'prealloc'
+  
+
+cdm:
+  default: 'samsung_electronics_co._ltd_sm-g900m-la-xx_sm-g900m_sl3000 (L3000)'
+  Amazon: 'samsung_electronics_co._ltd_sm-g900m-la-xx_sm-g900m_sl3000 (L3000)'
+
+
+credentials:
+  iTunes: 'xxx'
+
+directories:
+  temp: ''
+
+headers:
+  User-Agent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0'
+
+
+output_template:
+  movies: '{title}.{year}.{quality}.{source}.WEB-DL.{audio}.{video}-{tag}'
+  series: '{title}.{season_episode}.{episode_name}.{quality}.{source}.WEB-DL.{audio}.{video}-{tag}'
+  use_last_audio: false
+
+profiles:
+  default: 'default'
+  Viki: false
+
+
+nordvpn: {}
