@@ -2,7 +2,7 @@ Hi
 , I'm Widevinely
 
 
-This is me Sofiya, I am posting this to show how we can use SL2000 Certificate to do amazon using Playready drm.
+I am posting this to show how we can use SL2000 Certificate to do amazon using Playready drm.
 "---Always Work Hard and Trust the Process---"
 
 Amazon Demonstration using SL2000
